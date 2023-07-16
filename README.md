@@ -1,5 +1,5 @@
 # Facial_Emotion_Classification
-This repository contains a project in which I have built a Convolutional Neural Network to classify the Facial Emotions of the people in the pictures into the seven basic emotions,viz:\
+This repository contains a project in which I have built a Convolutional Neural Network to classify the Facial Emotions of the people in the pictures into the seven basic emotions,viz:
 1. Anger
 2. Disgust
 3. Fear
